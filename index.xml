@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ParaLip</title>
+    <link>https://example.org/</link>
+    <description>Recent content on ParaLip</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    
+	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://example.org/paralip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/paralip/</guid>
+      <description>ParaLip GRID
+lay white with s two again    ParaLip DualLip -- TransformerT2L Ground Truth FFT-Singer --     --    --   place green with c zero please    ParaLip DualLip -- TransformerT2L Ground Truth FFT-Singer --     --    --   set green by m six now    ParaLip DualLip -- TransformerT2L Ground Truth FFT-Singer --     --    --</description>
+    </item>
+    
+  </channel>
+</rss>
